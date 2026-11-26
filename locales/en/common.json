@@ -1,0 +1,420 @@
+{
+  "metaTitle": "Studio Noor | Interior design studio",
+  "metaDescription": "Studio Noor designs calm, liveable interiors for homes, cafes and workplaces. See the portfolio and book a consultation.",
+  "brand": "Studio Noor",
+  "brandIcon": "palette",
+  "nav": {
+    "language": "Language",
+    "menu": "Menu",
+    "cta": "Book a consultation",
+    "links": [
+      {
+        "id": "collection",
+        "label": "Portfolio"
+      },
+      {
+        "id": "benefits",
+        "label": "Why us"
+      },
+      {
+        "id": "how",
+        "label": "How it works"
+      },
+      {
+        "id": "people",
+        "label": "Designers"
+      },
+      {
+        "id": "pricing",
+        "label": "Services"
+      },
+      {
+        "id": "faq",
+        "label": "Questions"
+      }
+    ]
+  },
+  "hero": {
+    "eyebrow": "Interior design studio, Cairo",
+    "title": "Rooms that feel",
+    "titleAccent": "like you, only calmer",
+    "sub": "We design homes, cafes and workplaces that are easy to live in, with honest materials, soft light and furniture that lasts.",
+    "cta": "Book a consultation",
+    "secondary": "See the portfolio",
+    "proof": "Every project starts with a visit to your room, not a catalogue.",
+    "alt": "Illustration of a calm living room with a sofa, lamps and framed art"
+  },
+  "benefits": {
+    "eyebrow": "Why Studio Noor",
+    "title": "Design for real life, not for photos",
+    "items": [
+      {
+        "icon": "palette",
+        "title": "Rooms planned around you",
+        "body": "We start with how you live, cook, work and rest, then draw the room around that."
+      },
+      {
+        "icon": "shield",
+        "title": "Honest materials",
+        "body": "Wood, stone, linen and plaster that age well, chosen with you, never hidden in a quote."
+      },
+      {
+        "icon": "users",
+        "title": "One designer throughout",
+        "body": "The same designer visits, draws, orders and checks the finished room with you."
+      },
+      {
+        "icon": "calendar",
+        "title": "A clear schedule",
+        "body": "You get a written plan with dates for drawings, deliveries and installation."
+      }
+    ]
+  },
+  "tagline": "A room should hold your day gently. Morning light on the table, a chair that fits your back, and nothing shouting for attention.",
+  "how": {
+    "eyebrow": "How it works",
+    "title": "From your room to a room you love",
+    "steps": [
+      {
+        "title": "Visit and listen",
+        "body": "We visit your room, measure it, and talk about how you live and what you want to change."
+      },
+      {
+        "title": "Design and samples",
+        "body": "You receive drawings, a mood board and real material samples to touch before anything is ordered."
+      },
+      {
+        "title": "Make and install",
+        "body": "We order, follow the makers, and install the room with you, then adjust the small things together."
+      }
+    ]
+  },
+  "collection": {
+    "eyebrow": "Portfolio",
+    "title": "Rooms we have made",
+    "sub": "Sample projects. Figures shown are demo figures for this page.",
+    "searchLabel": "Search projects",
+    "searchPlaceholder": "Search by name or place",
+    "filterLabel": "Filter by type",
+    "allLabel": "All",
+    "emptyTitle": "No project matches this search",
+    "emptyBody": "Try a different word or clear the filters to see the whole portfolio.",
+    "clearFilters": "Clear filters",
+    "viewDetails": "View details",
+    "askAbout": "Ask about this project",
+    "sampleLabel": "Sample project",
+    "items": [
+      {
+        "id": "i1",
+        "category": "Home",
+        "icon": "house",
+        "title": "Apartment in Zamalek",
+        "location": "Zamalek, Cairo",
+        "meta1": "Living and dining",
+        "meta2": "Completed 2024",
+        "meta3": "96 m²",
+        "price": "Full apartment",
+        "tag": "Completed",
+        "desc": "A family apartment opened up with a long oak table, linen curtains and a reading corner by the window."
+      },
+      {
+        "id": "i2",
+        "category": "Cafe",
+        "icon": "chat",
+        "title": "Corner cafe, Maadi",
+        "location": "Maadi, Cairo",
+        "meta1": "Cafe interior",
+        "meta2": "Completed 2023",
+        "meta3": "74 m²",
+        "price": "Full cafe",
+        "tag": "Completed",
+        "desc": "A small cafe with a marble counter, warm timber and chairs that invite people to stay for a second coffee."
+      },
+      {
+        "id": "i3",
+        "category": "Workplace",
+        "icon": "buildings",
+        "title": "Studio office, New Cairo",
+        "location": "New Cairo",
+        "meta1": "Office interior",
+        "meta2": "Completed 2024",
+        "meta3": "180 m²",
+        "price": "Full office",
+        "tag": "Completed",
+        "desc": "An office for a design team, with quiet rooms, a shared library and desks that face the garden."
+      },
+      {
+        "id": "i4",
+        "category": "Home",
+        "icon": "house",
+        "title": "Bedroom suite, Sheikh Zayed",
+        "location": "Sheikh Zayed City",
+        "meta1": "Bedroom and bath",
+        "meta2": "Completed 2023",
+        "meta3": "42 m²",
+        "price": "One suite",
+        "tag": "Completed",
+        "desc": "A calm bedroom in plaster and oak, with a dressing wall and a bath lit by one high window."
+      },
+      {
+        "id": "i5",
+        "category": "Cafe",
+        "icon": "chat",
+        "title": "Bakery and tea room",
+        "location": "Downtown Cairo",
+        "meta1": "Cafe interior",
+        "meta2": "In progress",
+        "meta3": "110 m²",
+        "price": "Full cafe",
+        "tag": "In progress",
+        "desc": "A bakery where the oven is the centre of the room, with tiled counters and a tea room at the back."
+      },
+      {
+        "id": "i6",
+        "category": "Home",
+        "icon": "house",
+        "title": "Family villa interior",
+        "location": "Katameya Heights",
+        "meta1": "Whole villa",
+        "meta2": "Completed 2022",
+        "meta3": "310 m²",
+        "price": "Full villa",
+        "tag": "Completed",
+        "desc": "A villa interior in stone and linen, with a double height living room and a kitchen made for big family meals."
+      }
+    ]
+  },
+  "people": {
+    "eyebrow": "Designers",
+    "title": "The people who draw your rooms",
+    "sub": "Designers and a project manager, working on a few homes at a time.",
+    "items": [
+      {
+        "icon": "palette",
+        "name": "Noor El Din",
+        "role": "Founder and lead designer",
+        "body": "Noor founded the studio and leads home interiors, with a love of timber, linen and quiet colour."
+      },
+      {
+        "icon": "users",
+        "name": "Yasmin Gaber",
+        "role": "Designer, cafes and workplaces",
+        "body": "Yasmin designs cafes and offices that work hard all day and still feel warm at closing time."
+      },
+      {
+        "icon": "compass",
+        "name": "Farida Mansour",
+        "role": "Designer, homes",
+        "body": "Farida plans kitchens and bedrooms, where small measurements decide daily comfort."
+      },
+      {
+        "icon": "calendar",
+        "name": "Omar Aziz",
+        "role": "Project manager",
+        "body": "Omar keeps makers, deliveries and installation on schedule, and answers your questions daily."
+      }
+    ]
+  },
+  "proof": {
+    "eyebrow": "What clients say",
+    "title": "Homes and rooms people love living in",
+    "sampleLabel": "Sample testimonial",
+    "items": [
+      {
+        "quote": "Our living room finally fits our evenings. The children read there, we eat there, and nothing feels in the way.",
+        "name": "Reem and Tarek Salah",
+        "role": "Clients, Zamalek apartment"
+      },
+      {
+        "quote": "Customers stay longer. The chairs, the light, the counter, everything was thought through for a cafe.",
+        "name": "Laila Hossam",
+        "role": "Owner, corner cafe in Maadi"
+      },
+      {
+        "quote": "The samples came to our home first. We touched every material before a single thing was ordered.",
+        "name": "Hana Mostafa",
+        "role": "Client, bedroom suite"
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Services",
+    "title": "How design fees are arranged",
+    "sub": "Fees depend on the size of the room and the scope you choose. They are agreed in writing before design starts.",
+    "note": "All figures are confirmed in writing before work starts. A first consultation is free.",
+    "plans": [
+      {
+        "name": "One room",
+        "price": "{{room fee}}",
+        "per": "Per room, fixed",
+        "cta": "Discuss one room",
+        "featured": false,
+        "features": [
+          "Visit, measure and a written brief",
+          "Drawings and a mood board",
+          "Material samples to touch at home"
+        ]
+      },
+      {
+        "name": "A whole home",
+        "price": "{{home fee}}",
+        "per": "Per home, staged",
+        "cta": "Discuss a whole home",
+        "featured": true,
+        "features": [
+          "Every room designed together",
+          "Furniture and lighting plans",
+          "Orders followed through to delivery"
+        ]
+      },
+      {
+        "name": "Home and install",
+        "price": "{{full fee}}",
+        "per": "Per home, staged",
+        "cta": "Discuss home and install",
+        "featured": false,
+        "features": [
+          "Everything in a whole home",
+          "Installation managed on site",
+          "A final walkthrough and small fixes"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Questions clients ask before we start",
+    "items": [
+      {
+        "q": "How long does one room take?",
+        "a": "A single room usually takes four to six weeks from visit to installation, depending on furniture lead times."
+      },
+      {
+        "q": "Do you work with furniture we already own?",
+        "a": "Yes. We keep the pieces you love and plan the room around them, then add only what is missing."
+      },
+      {
+        "q": "Can I see materials before ordering?",
+        "a": "Yes. Samples come to your home, and nothing is ordered until you have touched and approved them."
+      },
+      {
+        "q": "Do you handle the builders and makers?",
+        "a": "Yes. We coordinate the makers and the installation, and we check the finished work with you."
+      },
+      {
+        "q": "What does a consultation cost?",
+        "a": "The first consultation is free. Design fees are agreed in writing after we have seen the room."
+      },
+      {
+        "q": "Do you design cafes and offices too?",
+        "a": "Yes. We design cafes, restaurants and workplaces, with layouts planned around staff and customers."
+      }
+    ]
+  },
+  "form": {
+    "eyebrow": "Book a consultation",
+    "title": "Tell us about your room",
+    "sub": "A short note is enough. We will reply within two working days and arrange a visit to your room.",
+    "name": "Full name",
+    "namePh": "Your full name",
+    "email": "Email",
+    "emailPh": "name@example.com",
+    "phone": "Phone",
+    "phonePh": "+20 100 000 0000",
+    "type": "Project type",
+    "typePlaceholder": "Choose one",
+    "typeOptions": [
+      "One room",
+      "A whole home",
+      "A cafe or restaurant",
+      "An office"
+    ],
+    "message": "Tell us about the room",
+    "messagePh": "Place, size, what you want to change",
+    "submit": "Send my consultation request",
+    "successTitle": "Request received",
+    "successBody": "Thank you. We will reply within two working days.",
+    "sendAnother": "Send another request",
+    "errors": {
+      "required": "This field is required",
+      "email": "Enter an email address in the format name@example.com",
+      "phone": "Enter a phone number with at least 7 digits"
+    },
+    "savedNote": "Requests saved in this browser: {{count}}"
+  },
+  "finalCta": {
+    "title": "Your room is waiting to feel right",
+    "sub": "Book a free consultation, and we will visit your room and show you what it could become.",
+    "cta": "Book a consultation"
+  },
+  "footer": {
+    "about": "Studio Noor is a Cairo interior design studio for homes, cafes and workplaces.",
+    "columns": [
+      {
+        "title": "Explore",
+        "links": [
+          {
+            "label": "Portfolio",
+            "href": "collection"
+          },
+          {
+            "label": "Why us",
+            "href": "benefits"
+          },
+          {
+            "label": "How it works",
+            "href": "how"
+          },
+          {
+            "label": "Questions",
+            "href": "faq"
+          }
+        ]
+      },
+      {
+        "title": "Studio",
+        "links": [
+          {
+            "label": "Designers",
+            "href": "people"
+          },
+          {
+            "label": "Services",
+            "href": "pricing"
+          },
+          {
+            "label": "Contact",
+            "href": "contact"
+          },
+          {
+            "label": "Book a consultation",
+            "href": "contact"
+          }
+        ]
+      }
+    ],
+    "legalTitle": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "privacyTitle": "Privacy policy",
+    "privacyBody": "We use the details you share only to answer your request. We do not sell your details. You can ask us to delete them at any time.",
+    "termsTitle": "Terms of service",
+    "termsBody": "Projects on this page are samples for demonstration. Fees and timelines are confirmed in writing before any work starts.",
+    "rights": "© 2026 Studio Noor. All rights reserved.",
+    "backTop": "Back to top"
+  },
+  "cookie": {
+    "text": "We use a small cookie to remember your language choice and your saved requests.",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "notFound": {
+    "title": "This page does not exist",
+    "body": "The link you followed may be out of date. Go back to the home page and start again.",
+    "back": "Back to home"
+  },
+  "misc": {
+    "skip": "Skip to content",
+    "close": "Close"
+  }
+}
