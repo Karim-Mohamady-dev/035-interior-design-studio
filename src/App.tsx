@@ -295,9 +295,9 @@ export default function App() {
               <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {filtered.map((item) => (
                   <article key={item.id} className="flex flex-col overflow-hidden rounded-2xl border border-[var(--line)] bg-[var(--surface)] transition-all duration-300 ease-[cubic-bezier(0.22,1,0.36,1)] hover:-translate-y-1">
-                    <div className="flex h-40 items-center justify-center gap-2 bg-[var(--bg)] p-4" role="img" aria-label={`${item.title}, ${item.location}`}>
-                      <span className="flex h-16 w-16 items-center justify-center rounded-2xl bg-[var(--accent)] text-[var(--accent-ink)]"><Icon name={item.icon} size={32} /></span>
-                      <span className="caption-3 rounded-full border border-[var(--line)] bg-[var(--surface)] px-3 py-2">{item.tag}</span>
+                    <div className="relative h-40 overflow-hidden" role="img" aria-label={`${item.title}, ${item.location}`}>
+                      <img src={item.image} alt={item.title} loading="lazy" className="h-full w-full object-cover" />
+                      <span className="caption-3 absolute bottom-3 start-3 rounded-full border border-[var(--line)] bg-[var(--surface)] px-3 py-2">{item.tag}</span>
                     </div>
                     <div className="flex flex-1 flex-col gap-2 p-4">
                       <p className="caption-3 text-[var(--accent)]">{t.collection.sampleLabel} · {item.category}</p>
@@ -508,6 +508,7 @@ export default function App() {
               <h3 className="title-1">{detail.title}</h3>
               <button type="button" onClick={() => setDetail(null)} aria-label={t.misc.close} className="rounded-xl border border-[var(--line)] p-2 transition-all duration-300 hover:bg-[var(--bg)]"><X size={18} /></button>
             </div>
+            {detail.image && <img src={detail.image} alt={detail.title} loading="lazy" className="mt-4 h-48 w-full rounded-xl object-cover" />}
             <p className="body-6 mt-2 flex items-center gap-2 text-[var(--muted)]"><MapPin size={14} aria-hidden="true" />{detail.location}</p>
             <p className="body-3 mt-4">{detail.desc}</p>
             <p className="title-1 mt-4">{detail.price}</p>
